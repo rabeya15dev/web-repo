@@ -87,4 +87,6 @@ navbar a:hover{
     max-width: 600px;
     margin: 15px 0px 30px;
 }
- 
+ .cases img:hover{
+     opacity:0.9 ;
+ }
